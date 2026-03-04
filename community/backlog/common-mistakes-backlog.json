@@ -701,14 +701,14 @@
     "explanation": "Use て-form to connect clauses. (Pattern set 5)",
     "id": 88,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "友達に会うを楽しみにしています。",
     "correct": "友達に会うのを楽しみにしています。",
     "explanation": "Nominalize with の before を. (Pattern set 5)",
     "id": 89,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
